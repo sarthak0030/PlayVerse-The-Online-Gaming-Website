@@ -3,7 +3,7 @@
 ## PlayVerse-The-Online-Gaming-Website
 <br>
 </div>
-PlayVerse is an online gaming website where users can play games online for free. This website aims to provide a fun and engaging platform for gamers to discover and enjoy new games. It will host a wide variety of games, including puzzle games, action games, sports games, strategy games, and more. The user interface of our website is user-friendly. The site will be accessible from the desktop, enabling users to play games anytime and anywhere.
+PlayVerse is an online gaming website where users can play games online for free. This website aims to provide a fun and engaging platform for gamers to discover and enjoy new games. It will host a wide variety of games, including puzzle games, action games, sports games, strategy games, and more. The user interface of our website is user-friendly. The site will be accessible from the desktop, enabling users to play games anytime and anywhere.<br><br>
 
 The primary objective of this project is to create a website that offers a seamless gaming experience and encourages user engagement. PlayVerse is designed with keeping user experience in mind, ensuring that players can easily find and play their favourite games while enjoying a visually appealing and intuitive interface.
 
