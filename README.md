@@ -59,4 +59,6 @@ Playerse contins the database for login, signup and admin. This project also con
 <br>
 </div>
 
-\* The following Games are made with referance of [codingartistweb.com](https://codingartistweb.com/) we do not own the copyrights of the game
+<div>
+\* The following Games are made with referance of [codingartistweb.com](https://codingartistweb.com/) we do not own the copyrights of the game.
+</div>
