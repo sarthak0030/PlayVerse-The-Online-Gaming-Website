@@ -15,8 +15,8 @@ Playerse contins the database for login, signup and admin. This project also con
 ## 🖼️ Website Images
 <br>
 
-<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/950c2c8c-898a-45cd-bc46-ecfb7efd631a" width="550">
-  PlayVerse Website
+<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/950c2c8c-898a-45cd-bc46-ecfb7efd631a" width="550"><br>
+  PlayVerse Website<br><br>
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/c0e65d79-9e56-40eb-9e4f-9e79b3aff568" width="550"><br>
   Memoria: The Memory Game<br><br>
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/2d91af60-e5f2-48cc-ace5-d3a0844873d2" width="550"><br>
