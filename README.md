@@ -59,4 +59,4 @@
 <br><br>
 </div>
 
-\* The following Games are made with referance of [codingartistweb.com](https://codingartistweb.com/) we do not own the copyrights of the game.
+\* The following Games are made with referance to [codingartistweb.com](https://codingartistweb.com/), we do not own the copyrights of the game.
