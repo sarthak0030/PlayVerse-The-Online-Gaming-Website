@@ -9,11 +9,11 @@ The primary objective of this project is to create a website that offers a seaml
 Playerse contins the database for login, signup and admin. This project also contains the admin page for the developer where he/she can view the user details, game details, number of users, number of games, and also add game details to the database. The developer can also view th conntact form messages and other details.
 
 <div align="center">
-## framed_picture: Website Images
+## :framed_picture: Website Images
 <br>
 </div>
 
-<img src="![image](https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/950c2c8c-898a-45cd-bc46-ecfb7efd631a)">
+![image](https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/950c2c8c-898a-45cd-bc46-ecfb7efd631a)
 
 <div align="center">
 ## :eyes: About Me
