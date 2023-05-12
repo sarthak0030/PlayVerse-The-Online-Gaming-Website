@@ -16,17 +16,17 @@ Playerse contins the database for login, signup and admin. This project also con
 <br>
 
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/950c2c8c-898a-45cd-bc46-ecfb7efd631a" width="550"><br>
-  * PlayVerse Website *<br><br><br>
+  #*PlayVerse Website*<br><br><br>
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/c0e65d79-9e56-40eb-9e4f-9e79b3aff568" width="550"><br>
-  *Memoria: The Memory Game*<br><br><br>
+  #*Memoria: The Memory Game*<br><br><br>
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/2d91af60-e5f2-48cc-ace5-d3a0844873d2" width="550"><br>
-  *Hangman: The Word Game*<br><br><br>
+  #*Hangman: The Word Game*<br><br><br>
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/f5cecd30-da4c-41cc-b8e3-d7494219ea1a" width="550"><br>
-  *Rock-Paper-Scissor*<br><br><br>
+  #*Rock-Paper-Scissor*<br><br><br>
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/0543d574-5c21-4119-89e7-2a6104185f58" width="550"><br>
-  *Tic-Tac-Toe*<br><br><br>
+  #*Tic-Tac-Toe*<br><br><br>
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/2b11c6b0-3b2a-4a09-829b-635b1666de44" width="550"><br>
-  *Connect 4*<br>
+  #*Connect 4*<br>
 
 </div>
   
