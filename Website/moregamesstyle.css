@@ -1,0 +1,625 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html::-webkit-scrollbar{
+    width:.8rem;
+}
+
+html::-webkit-scrollbar-track{
+    background:transparent;
+}
+
+html::-webkit-scrollbar-thumb{
+    background: #AA00FF;
+    border-radius: 0 10px;
+}
+
+body{
+    font-family: "Segoe UI", sans-serif;
+    background-image: url(images/bg3.png);
+    background-size: 96rem 289rem;
+    height: 100vh;
+}
+
+.btn1{
+    display: flex;
+    font-size: 1.3rem;
+    font-weight: 300;
+    margin-left: 10rem;
+    padding-top: 2.5rem;
+    background: transparent;
+    color:#F2F7FF;
+    border: none;
+}
+
+.btn1:hover{
+    color: #AA00FF;
+    cursor: pointer;
+}
+
+.btn2{
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 200;
+    padding-left: 1.5rem;
+    padding-top: 2rem;
+    width: 8rem;
+    height: 7rem;
+    color:#F2F7FF;
+    align-items: center;
+    background-color:#AA00FF;
+    box-shadow: inset 0 0 0 0 #8500c8;
+    transition: ease-out 0.2s;
+    border: none;
+    outline: none;
+}
+
+.btn2:hover{
+    box-shadow: inset 8rem 0 0 0 #8500c8;
+    cursor: pointer;
+}
+
+header .border{
+    position: absolute;
+    top: 6.9rem;
+    left: 123px;
+    border-bottom: .1rem solid #aa00ff8f;
+    width: 84%;
+}
+
+header{
+    position: relative;
+    top: 0; 
+    left: 0;
+    height: 7rem;
+    z-index: 100000;
+    width:100%;
+    padding-left: 4rem;
+    padding-right: 7.5rem;
+    /*border-bottom: .1rem solid #aa00ff8f;*/
+    background-color: #0e0c0f00;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header img{
+    padding-top: 1.8rem;
+    height: 4.4rem;
+    margin-left: 4rem;
+    margin-right: 10px;
+    margin-bottom: .5rem;
+}
+
+header .navbar ul{
+    padding-left: 9.5rem;
+    padding-top: 1.5rem;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+header .navbar ul li{
+    margin-left: 3rem;
+}
+
+header .navbar ul li a{
+    font-size: 1.4rem;
+    font-weight: 300;
+    color: #F2F7FF;
+    text-decoration: none;
+}
+
+header .navbar ul li a:hover{
+    font-weight: 360;
+    color: #9700e2;
+}
+
+header .navbar ul .head.active{
+    font-weight: 360;
+    color: #9700e2;
+    
+}
+
+.mor-container{
+    position: relative;
+    height: 618%;
+    background-image: url(images/bg3.png);
+    background-size: 96rem 283rem;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.mor-container h2{
+    background: linear-gradient(to right, #00FF00, #E6FB04);
+    background-size: 45% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(12px -24px 25px rgb(0, 0, 0));
+    font-size: 80px;
+    font-weight: 780;
+    margin-left: 7.5rem;
+    margin-top: 50px;
+    letter-spacing: 0px;
+}
+
+.card-container{
+    margin-bottom: 80rem;
+    margin-left: 12.7rem;
+    margin-right: 7.5rem;
+}
+
+.card{
+    height: 723px;
+    width: 1141.5px;
+    border-radius: 15px;
+    margin-top: 5.5rem;
+    /* other styles */
+    background: rgba(20, 20, 20, 0.751);
+    backdrop-filter: blur(60px);
+    /* fallback cross browser compatibility */
+    -webkit-backdrop-filter: blur(60px);
+    z-index: 10;
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.3);
+}
+
+.card1{
+    height: 763px;
+    width: 1141.5px;
+    border-radius: 15px;
+    margin-top: 5.5rem;
+    /* other styles */
+    background: rgba(20, 20, 20, 0.751);
+    backdrop-filter: blur(60px);
+    /* fallback cross browser compatibility */
+    -webkit-backdrop-filter: blur(60px);
+    z-index: 10;
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.3);
+}
+
+.card2{
+    height: 818px;
+    width: 1141.5px;
+    border-radius: 15px;
+    margin-top: 5.5rem;
+    /* other styles */
+    background: rgba(20, 20, 20, 0.751);
+    backdrop-filter: blur(60px);
+    /* fallback cross browser compatibility */
+    -webkit-backdrop-filter: blur(60px);
+    z-index: 10;
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.3);
+}
+
+.card3{
+    height: 765px;
+    width: 1141.5px;
+    border-radius: 15px;
+    margin-top: 5.5rem;
+    /* other styles */
+    background: rgba(20, 20, 20, 0.751);
+    backdrop-filter: blur(60px);
+    /* fallback cross browser compatibility */
+    -webkit-backdrop-filter: blur(60px);
+    z-index: 10;
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.3);
+}
+
+.card4{
+    height: 790px;
+    width: 1141.5px;
+    border-radius: 15px;
+    margin-top: 5.5rem;
+    /* other styles */
+    background: rgba(20, 20, 20, 0.751);
+    backdrop-filter: blur(60px);
+    /* fallback cross browser compatibility */
+    -webkit-backdrop-filter: blur(60px);
+    z-index: 10;
+    color: #fff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.3);
+}
+
+.card .img1{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 12px 0 0 0;
+}
+.card .img2{
+    width: 376.5px;
+    height: 180px;
+}
+.card .img3{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 0 12px 0 0;
+}
+
+.card>div>p {
+    letter-spacing: 0px;
+    text-align: left;
+    word-spacing: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.card>div>h1 {
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 300px;
+    font-size: 25px;
+}
+
+.card button{
+    position: absolute;
+    font-size: 19px;
+    border-radius: 5px;
+    height: 3rem;
+    width: 9.5rem;
+    z-index: 2000;
+    background-image: linear-gradient(to right, #00FF00, #E6FB04);
+    background-size: 150% auto;
+    box-shadow: inset 0 0 0 0 ;
+    transition: ease-out 0.4s;
+    margin-top: 2.7rem;
+    margin-left: 30.8rem;
+    color: #F2F7FF;
+    cursor: pointer;
+    border: none;
+}
+
+.card button:hover{
+    box-shadow: inset 13.5rem 0 0 0 transparent;
+}
+
+.card1 .img1{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 12px 0 0 0;
+}
+
+.card1 .img2{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 0 0 0 0;
+}
+
+.card1 .img3{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 0 12px 0 0;
+}
+
+
+.card1>div>p {
+    letter-spacing: 0px;
+    text-align: left;
+    word-spacing: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.card1>div>h1 {
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 300px;
+    font-size: 25px;
+}
+
+.card1 button{
+    position: absolute;
+    font-size: 19px;
+    border-radius: 5px;
+    height: 3rem;
+    width: 9.5rem;
+    z-index: 2000;
+    background-image: linear-gradient(to right, #00FF00, #E6FB04);
+    background-size: 150% auto;
+    box-shadow: inset 0 0 0 0 ;
+    transition: ease-out 0.4s;
+    margin-top: 2.7rem;
+    margin-left: 30.8rem;
+    color: #F2F7FF;
+    cursor: pointer;
+    border: none;
+}
+
+.card1 button:hover{
+    box-shadow: inset 13.5rem 0 0 0 transparent;
+}
+
+.card2 .img1{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 12px 0 0 0;
+}
+
+.card2 .img2{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 0 0 0 0;
+}
+
+.card2 .img3{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 0 12px 0 0;
+}
+
+.card2>div>p {
+    letter-spacing: 0px;
+    text-align: left;
+    word-spacing: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.card2>div>h1 {
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 300px;
+    font-size: 25px;
+}
+
+.card2 button{
+    position: absolute;
+    font-size: 19px;
+    border-radius: 5px;
+    height: 3rem;
+    width: 9.5rem;
+    z-index: 2000;
+    background-image: linear-gradient(to right, #00FF00, #E6FB04);
+    background-size: 150% auto;
+    box-shadow: inset 0 0 0 0;
+    transition: ease-out 0.2s;
+    margin-top: 2.7rem;
+    margin-left: 30.8rem;
+    color: #F2F7FF;
+    cursor: pointer;
+    border: none;
+}
+
+.card2 button:hover{
+    box-shadow: inset 13.5rem 0 0 0 transparent;
+}
+
+.card3 .img1{
+    width: 376.5px;
+    height: 175px;
+    border-radius: 12px 0 0 0;
+}
+
+.card3 .img2{
+    width: 376.5px;
+    height: 175px;
+    border-radius: 0 0 0 0;
+}
+
+.card3 .img3{
+    width: 376.5px;
+    height: 175px;
+    border-radius: 0 12px 0 0;
+}
+
+.card3>div>p {
+    letter-spacing: 0px;
+    text-align: left;
+    word-spacing: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.card3>div>h1 {
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 300px;
+    font-size: 25px;
+}
+
+.card3 button{
+    position: absolute;
+    font-size: 19px;
+    border-radius: 5px;
+    height: 3rem;
+    width: 9.5rem;
+    z-index: 2000;
+    background-image: linear-gradient(to right, #00FF00, #E6FB04);
+    background-size: 150% auto;
+    box-shadow: inset 0 0 0 0 ;
+    transition: ease-out 0.4s;
+    margin-top: 2.7rem;
+    margin-left: 30.8rem;
+    color: #F2F7FF;
+    cursor: pointer;
+    border: none;
+}
+
+.card3 button:hover{
+    box-shadow: inset 13.5rem 0 0 0 transparent;
+}
+
+.card4 .img1{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 12px 0 0 0;
+}
+
+.card4 .img2{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 0 0 0 0;
+}
+
+.card4 .img3{
+    width: 376.5px;
+    height: 180px;
+    border-radius: 0 12px 0 0;
+}
+
+.card4>div>p {
+    letter-spacing: 0px;
+    text-align: left;
+    word-spacing: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.card4>div>h1 {
+    margin-top: 10px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 300px;
+    font-size: 25px;
+}
+
+.card4 button{
+    position: absolute;
+    font-size: 19px;
+    border-radius: 5px;
+    height: 3rem;
+    width: 9.5rem;
+    z-index: 2000;
+    background-image: linear-gradient(to right, #00FF00, #E6FB04);
+    background-size: 150% auto;
+    box-shadow: inset 0 0 0 0;
+    transition: ease-out 0.2s;
+    margin-top: 2.7rem;
+    margin-left: 30.8rem;
+    color: #F2F7FF;
+    cursor: pointer;
+    border: none;
+}
+
+.card4 button:hover{
+    box-shadow: inset 13.5rem 0 0 0 transparent;
+}
+
+.footer{
+    background:#131313;
+    padding:1rem 7%;
+}
+
+.footer .box-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer .box-container .box{
+    flex:1 1 25rem;
+    margin: .5rem;
+}
+
+.footer .box-container .box h3{
+    font-size: 30px;
+    color:#fff;
+    padding:1rem 0;
+    font-weight: normal;
+}
+
+.footer .box-container .box p{
+    font-size: 18px;
+    color:#eee;
+    padding:1rem 0;
+    text-decoration: none;
+}
+
+.footer .box-container .box a{
+    font-size: 18px;
+    color:#eee;
+    display: block;
+    text-decoration: none;
+}
+
+.footer .box-container .box a:hover{
+    color: #9700e2;
+}
+
+.footer .box-container .box p i{
+    padding-right: .5rem;
+    color: #9700e2;
+}
+
+.footer .box-container .box2{
+    flex:1 1 25rem;
+    margin: .5rem;
+}
+
+.footer .box-container .box2 h3{
+    font-size: 30px;
+    color:#fff;
+    padding:1rem 0;
+    font-weight: normal;
+}
+
+.footer .box-container .box2 p{
+    font-size: 18px;
+    color:#eee;
+    padding:1rem 0;
+    text-decoration: none;
+}
+
+.footer .box-container .box2 a{
+    font-size: 18px;
+    color:#eee;
+    padding:1rem 0;
+    display: block;
+    text-decoration: none;
+}
+
+.footer .box-container .box2 a:hover{
+    color: #9700e2;
+}
+
+.footer .box-container .box2 p i{
+    padding-right: .5rem;
+    color: #9700e2;
+}
+
+.footer .credit a{
+    color: #9700e2;
+}
+
+.footer .credit{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    border-top: .1rem solid rgba(255,255,255,.7);
+    padding:2rem 1rem;
+    font-weight: normal;
+    letter-spacing: .1rem;
+    color:#fff;
+}
