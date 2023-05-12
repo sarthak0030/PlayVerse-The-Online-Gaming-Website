@@ -38,10 +38,10 @@
 <br>
 </div>
 
-I'd and Password for the Admin login is as follows
+I'd and Password for the Admin login is as follows<br>
 
-*I'd= admin
-*Password= admin
+* I'd= admin<br>
+* Password= admin
   
 <div align="center">
   
