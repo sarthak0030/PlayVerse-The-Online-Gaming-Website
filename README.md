@@ -1,15 +1,22 @@
 <div align="center">
-
 ## :joystick: PlayVerse: The Online Gaming Website
 <br>
 </div>
 PlayVerse is an online gaming website where users can play games online for free. This website aims to provide a fun and engaging platform for gamers to discover and enjoy new games. It will host a wide variety of games, including puzzle games, action games, sports games, strategy games, and more. The user interface of our website is user-friendly. The site will be accessible from the desktop, enabling users to play games anytime and anywhere.<br><br>
 
-The primary objective of this project is to create a website that offers a seamless gaming experience and encourages user engagement. PlayVerse is designed with keeping user experience in mind, ensuring that players can easily find and play their favourite games while enjoying a visually appealing and intuitive interface. playerse also contins the database for login, signup and admin. This project also contains the admin page for the developer where he/she can view the user details, game details, number of users, number of games, and also add game details to the database. The developer can also view th conntact form messages and other details.
+The primary objective of this project is to create a website that offers a seamless gaming experience and encourages user engagement. PlayVerse is designed with keeping user experience in mind, ensuring that players can easily find and play their favourite games while enjoying a visually appealing and intuitive interface. 
+
+Playerse contins the database for login, signup and admin. This project also contains the admin page for the developer where he/she can view the user details, game details, number of users, number of games, and also add game details to the database. The developer can also view th conntact form messages and other details.
 
 <div align="center">
+## framed_picture: Website Images
+<br>
+</div>
 
-## 👀 About Me
+<img src="![image](https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/950c2c8c-898a-45cd-bc46-ecfb7efd631a)">
+
+<div align="center">
+## :eyes: About Me
 <br>
 </div>
 
