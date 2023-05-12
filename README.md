@@ -51,9 +51,12 @@ Playerse contins the database for login, signup and admin. This project also con
 
 ## 🌐 Socials
 <br>
+</div>
 
    [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/sarthak0030/)
    [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-patil30)
    [![instagram](https://img.shields.io/badge/instagram-e6005c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarthak._.patil30)
    [![e-mail](https://img.shields.io/badge/email-f84437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilsarthak00030@gmail.com)
 <br>
+
+ * The following Games are made with referance of [codingartist](https://codingartistweb.com/) we do not own the copyrights of the game
