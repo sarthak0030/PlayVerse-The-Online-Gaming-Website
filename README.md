@@ -43,9 +43,9 @@ I'd and Password for the Admin login is as follows<br>
   *PlayVerse Website*<br><br><br>
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/99d17a60-3044-4fc4-9dad-48394ab7f76d" width="550"><br>
   *PlayVerse- Admin Page*<br><br><br>
-<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/c0e65d79-9e56-40eb-9e4f-9e79b3aff568" width="550"><br>
-  *Memoria: The Memory Game**<br><br><br>
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/2d91af60-e5f2-48cc-ace5-d3a0844873d2" width="550"><br>
+  *Memoria: The Memory Game**<br><br><br>
+<img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/c0e65d79-9e56-40eb-9e4f-9e79b3aff568" width="550"><br>
   *Hangman: The Word Game**<br><br><br>
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/f5cecd30-da4c-41cc-b8e3-d7494219ea1a" width="550"><br>
   *Rock-Paper-Scissor**<br><br><br>
