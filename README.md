@@ -14,10 +14,11 @@ Playerse contins the database for login, signup and admin. This project also con
   
 ## 🖼️ Website Images
 <br>
-</div>
 
 <img src="https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/950c2c8c-898a-45cd-bc46-ecfb7efd631a" width="550">
 
+</div>
+  
 <div align="center">
   
 ## 👀 About Me
