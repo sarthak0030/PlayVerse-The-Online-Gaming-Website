@@ -56,7 +56,7 @@
    [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-patil30)
    [![instagram](https://img.shields.io/badge/instagram-e6005c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarthak._.patil30)
    [![e-mail](https://img.shields.io/badge/email-f84437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilsarthak00030@gmail.com)
-<br>
+<br><br>
 </div>
 
 \* The following Games are made with referance of [codingartistweb.com](https://codingartistweb.com/) we do not own the copyrights of the game.
