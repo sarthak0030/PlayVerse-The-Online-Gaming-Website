@@ -12,6 +12,30 @@
 
 <div align="center">
   
+## 📋 Steps to import database
+<br>
+</div>
+
+* Step 1 - Open your database in phpMyAdmin
+* Step 2 - Click Databases in the top-menu
+* Step 3 - Create Database named tms
+* Step 4 - Click on Import tab
+* Step 5 - Choose File and click Go
+* Step 6 - You're done
+
+<div align="center">
+  
+## 🔐 I'd Password
+<br>
+</div>
+
+I'd and Password for the Admin login is as follows<br>
+
+* I'd= admin<br>
+* Password= admin<br>
+
+<div align="center">
+  
 ## 🖼️ Website Images
 <br>
 
@@ -31,30 +55,6 @@
   *Connect 4**<br>
 
 </div>
-  
-<div align="center">
-  
-## 🔐 I'd Password
-<br>
-</div>
-
-I'd and Password for the Admin login is as follows<br>
-
-* I'd= admin<br>
-* Password= admin<br>
-
-<div align="center">
-  
-## 🔐 Steps to import database
-<br>
-</div>
-
-* Step 1 - Open your database in phpMyAdmin
-* Step 2 - Click Databases in the top-menu
-* Step 3 - Create Database named tms
-* Step 4 - Click on Import tab
-* Step 5 - Choose File and click Go
-* Step 6 - You're done
 
 <div align="center">
   
@@ -68,8 +68,6 @@ I'd and Password for the Admin login is as follows<br>
    * 🏀 I love playing baskeball as it improves my concentration power, increases my team work ability and helps me to tackle new problems
    * 📫 How to reach me patilsarthak00030@gmail.com
    * 💬 Ask me about anything, I will be happy to help
-   
-
  
 <div align="center">
 
