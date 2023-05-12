@@ -10,7 +10,7 @@ The primary objective of this project is to create a website that offers a seaml
 
 <div align="center">
 
-## 👀 About
+## 👀 About Me
 <br>
 </div>
 
