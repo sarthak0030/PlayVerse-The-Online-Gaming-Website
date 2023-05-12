@@ -1,6 +1,7 @@
 <div align="center">
 
-## PlayVerse: The Online Gaming Website
+## ![download](https://github.com/sarthak0030/PlayVerse-The-Online-Gaming-Website/assets/110853665/17433e3d-2eb0-4a41-a788-ab4802ab711c)
+PlayVerse: The Online Gaming Website
 <br>
 </div>
 PlayVerse is an online gaming website where users can play games online for free. This website aims to provide a fun and engaging platform for gamers to discover and enjoy new games. It will host a wide variety of games, including puzzle games, action games, sports games, strategy games, and more. The user interface of our website is user-friendly. The site will be accessible from the desktop, enabling users to play games anytime and anywhere.<br><br>
