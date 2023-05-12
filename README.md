@@ -1,4 +1,8 @@
+<div align="center">
+
 ## PlayVerse-The-Online-Gaming-Website
+<br>
+</div>
 PlayVerse: The Online Gaming Website. It is an online gaming website where users can play games online for free.
 
 <div align="center">
